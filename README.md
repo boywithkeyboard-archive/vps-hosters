@@ -13,4 +13,4 @@
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**Hetzner**](https://www.hetzner.com) | 1 | 2 GB | 20 GB | ✔️ | 20 TB | ~$3.60[\*](https://www.hetzner.com/cloud) | ✖️ | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**Contabo**](https://contabo.com/en) | 4 | 8 GB | 200 GB | ✔️ | 32 TB | $6.99[\*](https://contabo.com/en/vps) | ? | ? |
 
-> As of August 10, 2022.
+> As of August 2022.
