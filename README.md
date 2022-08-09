@@ -1,4 +1,4 @@
-## VPS Hosters
+## VPS Hosting Providers
 
 | Country | Name | (v)CPUs | RAM | Storage | SSD | Transfer | Price | Incl. VAT | Safe 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
