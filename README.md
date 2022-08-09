@@ -1,6 +1,6 @@
 ## VPS Hosters
 
-| Country | Name | (v)CPUs | RAM | Storage | Disk Type | Transfer | Price | Incl. VAT | Trustworthy 
+| Country | Name | (v)CPUs | RAM | Storage | Disk Type | Transfer | Price | Incl. VAT | Safe 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**AWS**](https://aws.amazon.com) | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**Google Cloud**](https://cloud.google.com) | 2 | 1 GB | 20 GiB | SSD | ? | $9.52[\*](https://cloud.google.com/products/calculator/#id=c7f1b563-01a4-4e61-9760-1beb0d4385dc) | ? | ✔️ |
