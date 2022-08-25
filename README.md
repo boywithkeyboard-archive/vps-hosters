@@ -3,6 +3,7 @@
 | Country | Name | (v)CPUs | RAM | Storage | SSD | Transfer | Price | Incl. VAT | Safe 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**AWS**](https://aws.amazon.com) | 2 | 1 GiB | 30 GB | ✔️ | ? | $6.87[\*](https://calculator.aws/#/estimate?id=6f840e242113d3f95d9f8909563de23367a361a7) | ? | ✔️ |
+| <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**AWS Lightsail**](https://lightsail.aws.amazon.com/ls/webapp/create/instance) | 1 | 1 GB | 40 GB | ✔️ | 2 TB | $5[\*](https://lightsail.aws.amazon.com/ls/webapp/create/instance) | ? | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**GCP**](https://cloud.google.com) | 2 | 1 GB | 20 GiB | ✔️ | ? | $9.52[\*](https://cloud.google.com/products/calculator/#id=c7f1b563-01a4-4e61-9760-1beb0d4385dc) | ? | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**Azure**](https://azure.microsoft.com) | 1 | 0.75 GB | 20 GB | ? | ? | $13.19[\*](https://github.com/unvented/vps-hosters/raw/dev/ExportedEstimate.xlsx) | ? | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**DigitalOcean**](https://digitalocean.com) | 1 | 1 GB | 25 GB | ✔️ | 1 TB | $6.00[\*](https://www.digitalocean.com/products/droplets)	| ✖️ | ✔️ |
