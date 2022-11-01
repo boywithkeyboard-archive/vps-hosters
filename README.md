@@ -1,6 +1,6 @@
 ## VPS Hosting Providers
 
-| HQ | Name | (v)CPUs | RAM | Storage | SSD | Transfer | Price | Incl. VAT | Safe 
+| HQ | Name | (v)CPUs | RAM | Storage | SSD | Transfer | Price | Incl. VAT** | Safe 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**AWS**](https://aws.amazon.com) | 2 | 1 GiB | 30 GB | ✔️ | ? | $6.87[\*](https://calculator.aws/#/estimate?id=6f840e242113d3f95d9f8909563de23367a361a7) | ? | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**AWS Lightsail**](https://aws.amazon.com/lightsail) | 1 | 1 GB | 40 GB | ✔️ | 2 TB | $5[\*](https://aws.amazon.com/lightsail/pricing) | ? | ✔️ |
@@ -15,8 +15,10 @@
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**Contabo**](https://contabo.com/en) | 4 | 8 GB | 200 GB | ✔️ | 32 TB | $6.99[\*](https://contabo.com/en/vps) | ? | ✔️ |
 | LT | [**Hostinger**](https://www.hostinger.com) | 1 | 1 GB | 20 GB | ✔️ | 1 TB | $8.99[\*](https://www.hostinger.com/cart-hosting/product/vps-1?referrer_page_url=https%3A%2F%2Fwww.hostinger.com%2Fvps-hosting) | ? | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**Namecheap**](https://www.namecheap.com) | 2 | 2 GB | 40 GB | ✔️ | 1 TB | $6.88[\*](https://www.namecheap.com/hosting/vps) | ? | ✔️ |
+| <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**Strato**](https://www.strato.de) | 4 | 8 GB | 300 GB | ✔️ | ∞ | $5[\*](https://www.strato.de/server/linux-vserver) | ✔️ | ✔️ |
 
 ###### *as of November 2022
+###### **19% VAT (Germany)
 
 ### Recommendation
 
