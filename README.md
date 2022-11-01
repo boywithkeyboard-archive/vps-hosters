@@ -16,6 +16,7 @@
 | LT | [**Hostinger**](https://www.hostinger.com) | 1 | 1 GB | 20 GB | ✔️ | 1 TB | $8.99[\*](https://www.hostinger.com/cart-hosting/product/vps-1?referrer_page_url=https%3A%2F%2Fwww.hostinger.com%2Fvps-hosting) | ? | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**Namecheap**](https://www.namecheap.com) | 2 | 2 GB | 40 GB | ✔️ | 1 TB | $6.88[\*](https://www.namecheap.com/hosting/vps) | ? | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**Strato**](https://www.strato.de) | 4 | 8 GB | 300 GB | ✔️ | ∞ | $5[\*](https://www.strato.de/server/linux-vserver) | ✔️ | ✔️ |
+| <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**MC-HOST24**](https://mc-host24.de) | 2 | 4 GB | 10 GB | ✔️ | ∞ | $4.90[\*](https://mc-host24.de/rootserver-mieten) | ? | ✔️ |
 
 ###### *as of November 2022
 ###### **19% VAT (Germany)
