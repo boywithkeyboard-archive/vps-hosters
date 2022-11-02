@@ -11,12 +11,14 @@
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**Vultr**](https://www.vultr.com) | 1 | 1 GB | 25 GB | ✔️ | 2 TB | $6.00[\*](https://www.vultr.com/products/cloud-compute) | ? | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**ZAP Hosting**](https://zap-hosting.com/en) | 2 | 8 GB | 25 GB | ? | 5 TB | $8.06[\*](https://zap-hosting.com/en/shop/?myorder=UWyA9VyaBG231pdb3p2w3GdJP2DRV6h2rFsKgx4oU7zEN38bDtPUY3SqiRGcfdVQWUFR1GjVw7DlMEa0OYOZRWFwMXmV8OBNv0%2BHVggLW48gbgSbfX9jYAgVNX1DKwMpBS3CGNF1kkIvWYp2yrpMIuw9TnaDQJd3mNd1wwhwHGvAM3xIHGCovoVG9k05aoHaGD47kFf75125xVADGBPMFQBdnSEXNSLaXcmm8UlBQE6mq4afzaGx1YGhPKLquC0UaXCF6oR3U84qKA4BYrK%2FRcFxAVCw7qMcgWrNB9linutFmGQdADoSfgkT57GidWiHLmIW%2Bvc98QGDBGVZd2wSBhfoE%2BhBhcOe08TiuYsaZ82AcaAWP9bsjhMx%2FdPplSPDTPbHuKEgO0B%2FNBM6HehZmqBgdGPCQjK3tt%2FkB5jnwY6Xv2VeKwzeYCl8cIvfY5ApGMEevPxreeP4kwWZEyBCnWjnNrGRwgIqGQ3iFihNaOEpd0RQflkuON6Bf03jiCMyG%2FIpop%2F8p1oRz4jCIk8dWf4gHGTVVyFJB6FH2EvCJ28%3D) | ? | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/fr.svg" width="25px" /> | [**OVH**](https://us.ovhcloud.com/) | 1 | 2 GB | 40 GB | ✔️ | ∞ | $6.00[\*](https://us.ovhcloud.com/vps) | ? | ✔️ |
-| <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**Hetzner**](https://www.hetzner.com) | 1 | 2 GB | 20 GB | ✔️ | 20 TB |      $3.25[\*](https://www.hetzner.com/cloud) | ✖️ | ✔️ |
+| <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**Hetzner**](https://www.hetzner.com) | 1 | 2 GB | 20 GB | ✔️ | 20 TB |      $3.25[\*](https://www.hetzner.com/cloud) | ✔️ | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**Contabo**](https://contabo.com/en) | 4 | 8 GB | 200 GB | ✔️ | 32 TB | $6.99[\*](https://contabo.com/en/vps) | ? | ✔️ |
 | LT | [**Hostinger**](https://www.hostinger.com) | 1 | 1 GB | 20 GB | ✔️ | 1 TB | $8.99[\*](https://www.hostinger.com/cart-hosting/product/vps-1?referrer_page_url=https%3A%2F%2Fwww.hostinger.com%2Fvps-hosting) | ? | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/us.svg" width="25px" /> | [**Namecheap**](https://www.namecheap.com) | 2 | 2 GB | 40 GB | ✔️ | 1 TB | $6.88[\*](https://www.namecheap.com/hosting/vps) | ? | ✔️ |
 | <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**Strato**](https://www.strato.de) | 4 | 8 GB | 300 GB | ✔️ | ∞ | $5[\*](https://www.strato.de/server/linux-vserver) | ✔️ | ✔️ |
-| <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**MC-HOST24**](https://mc-host24.de) | 2 | 4 GB | 10 GB | ✔️ | ∞ | $4.90[\*](https://mc-host24.de/rootserver-mieten) | ? | ✔️ |
+| <img src="https://cdn.jsdelivr.net/npm/@azury/cdn/dist/locales/de.svg" width="25px" /> | [**MC-HOST24**](https://mc-host24.de) | 2 | 4 GB | 10 GB | ✔️ | ∞ | $4.90[\*](https://mc-host24.de/rootserver-mieten) | ✔️ | ✔️ |
+
+### 🏆 Best Choice: [Hetzner](https://www.hetzner.com/cloud)
 
 ###### *as of November 2022
 ###### **19% VAT (Germany)
